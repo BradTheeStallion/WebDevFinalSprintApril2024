@@ -1,0 +1,144 @@
+{
+    "houseplants": [
+      {
+        "name": "Monstera Deliciosa",
+        "scientific_name": "Monstera deliciosa",
+        "family": "Araceae",
+        "origin": ["Mexico", "Guatemala"],
+        "care_instructions": {
+          "light": "Indirect sunlight",
+          "water": "Moderate, allow soil to dry slightly between waterings",
+          "temperature": "18-27°C (65-80°F)",
+          "humidity": "High humidity preferred"
+        },
+        "average_height_cm": 200,
+        "toxicity": false
+      },
+      {
+        "name": "Snake Plant",
+        "scientific_name": "Sansevieria trifasciata",
+        "family": "Asparagaceae",
+        "origin": ["West Africa"],
+        "care_instructions": {
+          "light": "Low to bright indirect sunlight",
+          "water": "Infrequent, allow soil to dry completely between waterings",
+          "temperature": "10-29°C (50-85°F)",
+          "humidity": "Tolerant of low humidity"
+        },
+        "average_height_cm": 60,
+        "toxicity": true
+      },
+      {
+        "name": "Spider Plant",
+        "scientific_name": "Chlorophytum comosum",
+        "family": "Asparagaceae",
+        "origin": ["Tropical and Southern Africa"],
+        "care_instructions": {
+          "light": "Bright indirect sunlight",
+          "water": "Moderate, keep soil evenly moist",
+          "temperature": "15-26°C (60-80°F)",
+          "humidity": "Prefers average to high humidity"
+        },
+        "average_height_cm": 30,
+        "toxicity": false
+      },
+      {
+        "name": "Peace Lily",
+        "scientific_name": "Spathiphyllum",
+        "family": "Araceae",
+        "origin": ["Tropical regions of the Americas and Southeast Asia"],
+        "care_instructions": {
+          "light": "Indirect sunlight",
+          "water": "Regular, keep soil consistently moist but not soggy",
+          "temperature": "18-24°C (65-75°F)",
+          "humidity": "Prefers high humidity"
+        },
+        "average_height_cm": 45,
+        "toxicity": true
+      },
+      {
+        "name": "ZZ Plant",
+        "scientific_name": "Zamioculcas zamiifolia",
+        "family": "Araceae",
+        "origin": ["Eastern Africa"],
+        "care_instructions": {
+          "light": "Low to moderate indirect sunlight",
+          "water": "Infrequent, allow soil to dry out between waterings",
+          "temperature": "16-24°C (60-75°F)",
+          "humidity": "Tolerant of low humidity"
+        },
+        "average_height_cm": 60,
+        "toxicity": true
+      },
+      {
+        "name": "Aloe Vera",
+        "scientific_name": "Aloe vera",
+        "family": "Asphodelaceae",
+        "origin": ["Arabian Peninsula"],
+        "care_instructions": {
+          "light": "Bright indirect sunlight",
+          "water": "Infrequent, allow soil to dry out between waterings",
+          "temperature": "21-26°C (70-80°F)",
+          "humidity": "Tolerant of low humidity"
+        },
+        "average_height_cm": 60,
+        "toxicity": true
+      },
+      {
+        "name": "Fiddle Leaf Fig",
+        "scientific_name": "Ficus lyrata",
+        "family": "Moraceae",
+        "origin": ["Western Africa"],
+        "care_instructions": {
+          "light": "Bright indirect sunlight",
+          "water": "Moderate, allow soil to dry slightly between waterings",
+          "temperature": "18-24°C (65-75°F)",
+          "humidity": "Prefers moderate to high humidity"
+        },
+        "average_height_cm": 150,
+        "toxicity": true
+      },
+      {
+        "name": "Boston Fern",
+        "scientific_name": "Nephrolepis exaltata",
+        "family": "Nephrolepidaceae",
+        "origin": ["Tropical regions of the Americas"],
+        "care_instructions": {
+          "light": "Indirect sunlight",
+          "water": "Regular, keep soil consistently moist",
+          "temperature": "18-24°C (65-75°F)",
+          "humidity": "Prefers high humidity"
+        },
+        "average_height_cm": 45,
+        "toxicity": false
+      },
+      {
+        "name": "Rubber Plant",
+        "scientific_name": "Ficus elastica",
+        "family": "Moraceae",
+        "origin": ["Southeast Asia"],
+        "care_instructions": {
+          "light": "Bright indirect sunlight",
+          "water": "Moderate, allow soil to dry slightly between waterings",
+          "temperature": "18-24°C (65-75°F)",
+          "humidity": "Tolerant of low to moderate humidity"
+        },
+        "average_height_cm": 180,
+        "toxicity": true
+      },
+      {
+        "name": "Pothos",
+        "scientific_name": "Epipremnum aureum",
+        "family": "Araceae",
+        "origin": ["Southeast Asia", "Australia"],
+        "care_instructions": {
+          "light": "Low to moderate indirect sunlight",
+          "water": "Moderate, allow soil to dry out between waterings",
+          "temperature": "15-30°C (60-86°F)",
+          "humidity": "Tolerant of low to moderate humidity"
+        },
+        "average_height_cm": 30,
+        "toxicity": true
+      }
+    ]
+  }  
